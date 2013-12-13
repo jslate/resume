@@ -26,7 +26,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.7071068"
      inkscape:cx="335.19598"
-     inkscape:cy="499.95714"
+     inkscape:cy="336.45436"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -54,7 +54,7 @@
      transform="translate(0,-62.362183)">
     <g
        id="g3457"
-       transform="translate(0,1.7384953)">
+       transform="translate(0,-28.261505)">
       <text
          xml:space="preserve"
          style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:StarVader;-inkscape-font-specification:StarVader"
@@ -212,7 +212,7 @@
          y="906.255" /></text>
     <g
        id="g3417"
-       transform="translate(0,-0.2438961)">
+       transform="translate(0,-16.243896)">
       <text
          sodipodi:linespacing="125%"
          id="text3021"
@@ -514,230 +514,136 @@
            sodipodi:type="star" />
       </g>
     </g>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:StarVader;-inkscape-font-specification:StarVader"
+       x="55.558392"
+       y="704.61029"
+       id="text3910"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3912"
+         x="55.558392"
+         y="704.61029"
+         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Averia Serif;-inkscape-font-specification:Averia Serif Bold">Professional Experience</tspan></text>
     <g
-       id="g3478">
+       id="g3380"
+       transform="translate(0,-46)">
       <text
          sodipodi:linespacing="125%"
-         id="text3910"
-         y="754.61029"
+         id="text3914"
+         y="781.49896"
          x="55.558392"
-         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:StarVader;-inkscape-font-specification:StarVader"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Luxi Sans;-inkscape-font-specification:Luxi Sans"
          xml:space="preserve"><tspan
-           style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Averia Serif;-inkscape-font-specification:Averia Serif Bold"
-           y="754.61029"
+           id="tspan3918"
+           style="font-size:12px;font-weight:bold;-inkscape-font-specification:Luxi Sans Bold"
+           y="781.49896"
            x="55.558392"
-           id="tspan3912"
-           sodipodi:role="line">Professional Experience</tspan></text>
+           sodipodi:role="line">PatientsLikeMe</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3922"
+         y="781.49896"
+         x="548.22461"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Utopia;-inkscape-font-specification:Utopia"
+         xml:space="preserve"><tspan
+           style="font-size:12px;font-style:italic;-inkscape-font-specification:Utopia Italic"
+           y="781.49896"
+           x="548.22461"
+           id="tspan3924"
+           sodipodi:role="line">September 2013 - Present</tspan></text>
+      <path
+         inkscape:connector-curvature="0"
+         id="path3926"
+         d="m 56.527142,785.74111 627.130318,0"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       <g
-         transform="translate(0,4)"
-         id="g3380">
+         id="g4451">
         <text
            xml:space="preserve"
            style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Luxi Sans;-inkscape-font-specification:Luxi Sans"
-           x="55.558392"
-           y="781.49896"
-           id="text3914"
+           x="70.947266"
+           y="829.255"
+           id="text3928"
            sodipodi:linespacing="125%"><tspan
+             id="tspan3930"
              sodipodi:role="line"
-             x="55.558392"
-             y="781.49896"
-             style="font-size:12px;font-weight:bold;-inkscape-font-specification:Luxi Sans Bold"
-             id="tspan3918">OurStage, Inc.</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Utopia;-inkscape-font-specification:Utopia"
-           x="576.22461"
-           y="781.49896"
-           id="text3922"
-           sodipodi:linespacing="125%"><tspan
-             sodipodi:role="line"
-             id="tspan3924"
-             x="576.22461"
-             y="781.49896"
-             style="font-size:12px;font-style:italic;-inkscape-font-specification:Utopia Italic">April 2010 - Present</tspan></text>
+             x="70.947266"
+             y="829.255">Development of platform to allow patients to share data and form communities using Ruby on Rails and related technologies</tspan></text>
         <path
-           style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           d="m 56.527142,785.74111 627.130318,0"
-           id="path3926"
-           inkscape:connector-curvature="0" />
-        <g
-           id="g4451">
-          <text
-             sodipodi:linespacing="125%"
-             id="text3928"
-             y="829.255"
-             x="70.947266"
-             style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Luxi Sans;-inkscape-font-specification:Luxi Sans"
-             xml:space="preserve"><tspan
-               y="829.255"
-               x="70.947266"
-               sodipodi:role="line"
-               id="tspan3930">Development of tools to empower musicians and engage fans using Ruby on Rails and related technologies</tspan></text>
-          <path
-             transform="matrix(0.71958507,0,0,0.71958507,12.005918,379.01934)"
-             d="m 68.581327,620.57996 c 0,1.75715 -1.424454,3.1816 -3.181608,3.1816 -1.757153,0 -3.181608,-1.42445 -3.181608,-3.1816 0,-1.75716 1.424455,-3.18161 3.181608,-3.18161 1.757154,0 3.181608,1.42445 3.181608,3.18161 z"
-             sodipodi:ry="3.1816082"
-             sodipodi:rx="3.1816082"
-             sodipodi:cy="620.57996"
-             sodipodi:cx="65.399719"
-             id="path3946"
-             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.08453465;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:0.94117647;stroke-dasharray:none;stroke-dashoffset:0"
-             sodipodi:type="arc" />
-        </g>
-        <g
-           id="g4456"
-           transform="translate(0,2.9040531)">
-          <text
-             xml:space="preserve"
-             style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Luxi Sans;-inkscape-font-specification:Luxi Sans"
-             x="70.947266"
-             y="845.51654"
-             id="text3932"
-             sodipodi:linespacing="125%"><tspan
-               id="tspan3934"
-               sodipodi:role="line"
-               x="70.947266"
-               y="845.51654">Extensive work with product designers, QA, operations, and other developers in a highly collaborative environment </tspan></text>
-          <path
-             sodipodi:type="arc"
-             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.08453465;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:0.94117647;stroke-dasharray:none;stroke-dashoffset:0"
-             id="path3948"
-             sodipodi:cx="65.399719"
-             sodipodi:cy="620.57996"
-             sodipodi:rx="3.1816082"
-             sodipodi:ry="3.1816082"
-             d="m 68.581327,620.57996 c 0,1.75715 -1.424454,3.1816 -3.181608,3.1816 -1.757153,0 -3.181608,-1.42445 -3.181608,-3.1816 0,-1.75716 1.424455,-3.18161 3.181608,-3.18161 1.757154,0 3.181608,1.42445 3.181608,3.18161 z"
-             transform="matrix(0.71958507,0,0,0.71958507,12.005918,395.33331)" />
-        </g>
-        <g
-           id="g4461"
-           transform="translate(0,3.2161259)">
-          <text
-             sodipodi:linespacing="125%"
-             id="text3964"
-             y="864.51654"
-             x="70.947266"
-             style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Luxi Sans;-inkscape-font-specification:Luxi Sans"
-             xml:space="preserve"><tspan
-               y="864.51654"
-               x="70.947266"
-               sodipodi:role="line"
-               id="tspan3966">Built licenseable music search interface, allowing searching across a wide array of song attributes, generation of</tspan><tspan
-               id="tspan3970"
-               y="879.51654"
-               x="70.947266"
-               sodipodi:role="line">waveform images, management of custom playlists</tspan></text>
-          <path
-             transform="matrix(0.71958507,0,0,0.71958507,12.005918,414.33331)"
-             d="m 68.581327,620.57996 c 0,1.75715 -1.424454,3.1816 -3.181608,3.1816 -1.757153,0 -3.181608,-1.42445 -3.181608,-3.1816 0,-1.75716 1.424455,-3.18161 3.181608,-3.18161 1.757154,0 3.181608,1.42445 3.181608,3.18161 z"
-             sodipodi:ry="3.1816082"
-             sodipodi:rx="3.1816082"
-             sodipodi:cy="620.57996"
-             sodipodi:cx="65.399719"
-             id="path3968"
-             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.08453465;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:0.94117647;stroke-dasharray:none;stroke-dashoffset:0"
-             sodipodi:type="arc" />
-        </g>
-        <g
-           id="g4467"
-           transform="translate(0,7.5281986)">
-          <text
-             sodipodi:linespacing="125%"
-             id="text3972"
-             y="894.51654"
-             x="70.947266"
-             style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Luxi Sans;-inkscape-font-specification:Luxi Sans"
-             xml:space="preserve"><tspan
-               y="894.51654"
-               x="70.947266"
-               sodipodi:role="line"
-               id="tspan3974">Rebuilt music judging feature, including designing and implementing major UI changes and porting existing Prototype</tspan><tspan
-               id="tspan3978"
-               y="909.51654"
-               x="70.947266"
-               sodipodi:role="line">code to use jQuery</tspan></text>
-          <path
-             transform="matrix(0.71958507,0,0,0.71958507,12.005918,444.33331)"
-             d="m 68.581327,620.57996 c 0,1.75715 -1.424454,3.1816 -3.181608,3.1816 -1.757153,0 -3.181608,-1.42445 -3.181608,-3.1816 0,-1.75716 1.424455,-3.18161 3.181608,-3.18161 1.757154,0 3.181608,1.42445 3.181608,3.18161 z"
-             sodipodi:ry="3.1816082"
-             sodipodi:rx="3.1816082"
-             sodipodi:cy="620.57996"
-             sodipodi:cx="65.399719"
-             id="path3976"
-             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.08453465;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:0.94117647;stroke-dasharray:none;stroke-dashoffset:0"
-             sodipodi:type="arc" />
-        </g>
-        <g
-           id="g4473"
-           transform="translate(0,11.834412)">
-          <text
-             xml:space="preserve"
-             style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Luxi Sans;-inkscape-font-specification:Luxi Sans"
-             x="70.947266"
-             y="924.51654"
-             id="text3980"
-             sodipodi:linespacing="125%"><tspan
-               id="tspan3990"
-               sodipodi:role="line"
-               x="70.947266"
-               y="924.51654">Worked with product team and other developers in site redesign to make the site functional across multiple desktop </tspan><tspan
-               id="tspan3994"
-               sodipodi:role="line"
-               x="70.947266"
-               y="939.51654">and mobile platforms</tspan></text>
-          <path
-             sodipodi:type="arc"
-             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.08453465;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:0.94117647;stroke-dasharray:none;stroke-dashoffset:0"
-             id="path3986"
-             sodipodi:cx="65.399719"
-             sodipodi:cy="620.57996"
-             sodipodi:rx="3.1816082"
-             sodipodi:ry="3.1816082"
-             d="m 68.581327,620.57996 c 0,1.75715 -1.424454,3.1816 -3.181608,3.1816 -1.757153,0 -3.181608,-1.42445 -3.181608,-3.1816 0,-1.75716 1.424455,-3.18161 3.181608,-3.18161 1.757154,0 3.181608,1.42445 3.181608,3.18161 z"
-             transform="matrix(0.71958507,0,0,0.71958507,12.005918,474.33331)" />
-        </g>
-        <g
-           id="g4479"
-           transform="translate(0,14)">
-          <text
-             sodipodi:linespacing="125%"
-             id="text4002"
-             y="956.51654"
-             x="70.947266"
-             style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Luxi Sans;-inkscape-font-specification:Luxi Sans"
-             xml:space="preserve"><tspan
-               y="956.51654"
-               x="70.947266"
-               sodipodi:role="line"
-               id="tspan4004">Implemented pjax on desktop browsers to allow for faster browsing and a continuous music listening experience</tspan><tspan
-               id="tspan4008"
-               y="971.51654"
-               x="70.947266"
-               sodipodi:role="line">across the site</tspan></text>
-          <path
-             transform="matrix(0.71958507,0,0,0.71958507,12.005918,506.33331)"
-             d="m 68.581327,620.57996 c 0,1.75715 -1.424454,3.1816 -3.181608,3.1816 -1.757153,0 -3.181608,-1.42445 -3.181608,-3.1816 0,-1.75716 1.424455,-3.18161 3.181608,-3.18161 1.757154,0 3.181608,1.42445 3.181608,3.18161 z"
-             sodipodi:ry="3.1816082"
-             sodipodi:rx="3.1816082"
-             sodipodi:cy="620.57996"
-             sodipodi:cx="65.399719"
-             id="path4006"
-             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.08453465;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:0.94117647;stroke-dasharray:none;stroke-dashoffset:0"
-             sodipodi:type="arc" />
-        </g>
+           sodipodi:type="arc"
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.08453465;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:0.94117647;stroke-dasharray:none;stroke-dashoffset:0"
+           id="path3946"
+           sodipodi:cx="65.399719"
+           sodipodi:cy="620.57996"
+           sodipodi:rx="3.1816082"
+           sodipodi:ry="3.1816082"
+           d="m 68.581327,620.57996 c 0,1.75715 -1.424454,3.1816 -3.181608,3.1816 -1.757153,0 -3.181608,-1.42445 -3.181608,-3.1816 0,-1.75716 1.424455,-3.18161 3.181608,-3.18161 1.757154,0 3.181608,1.42445 3.181608,3.18161 z"
+           transform="matrix(0.71958507,0,0,0.71958507,12.005918,379.01934)" />
+      </g>
+      <g
+         transform="translate(0,2.9040531)"
+         id="g4456">
         <text
            sodipodi:linespacing="125%"
-           id="text4443"
-           y="807.49896"
-           x="55.558392"
+           id="text3932"
+           y="845.51654"
+           x="70.947266"
            style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Luxi Sans;-inkscape-font-specification:Luxi Sans"
            xml:space="preserve"><tspan
-             id="tspan4445"
-             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Utopia;-inkscape-font-specification:Utopia Italic"
-             y="807.49896"
-             x="55.558392"
-             sodipodi:role="line">Senior Web Engineer</tspan></text>
+             y="845.51654"
+             x="70.947266"
+             sodipodi:role="line"
+             id="tspan3934">Extensive work with product designers, QA, operations, and other developers in a highly collaborative environment </tspan></text>
+        <path
+           transform="matrix(0.71958507,0,0,0.71958507,12.005918,395.33331)"
+           d="m 68.581327,620.57996 c 0,1.75715 -1.424454,3.1816 -3.181608,3.1816 -1.757153,0 -3.181608,-1.42445 -3.181608,-3.1816 0,-1.75716 1.424455,-3.18161 3.181608,-3.18161 1.757154,0 3.181608,1.42445 3.181608,3.18161 z"
+           sodipodi:ry="3.1816082"
+           sodipodi:rx="3.1816082"
+           sodipodi:cy="620.57996"
+           sodipodi:cx="65.399719"
+           id="path3948"
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.08453465;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:0.94117647;stroke-dasharray:none;stroke-dashoffset:0"
+           sodipodi:type="arc" />
       </g>
+      <g
+         transform="translate(0,3.2161259)"
+         id="g4461">
+        <text
+           xml:space="preserve"
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Luxi Sans;-inkscape-font-specification:Luxi Sans"
+           x="70.947266"
+           y="864.51654"
+           id="text3964"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             x="70.947266"
+             y="864.51654"
+             id="tspan3970">Participation in the building of survey creation tools in Rails and Ember</tspan></text>
+        <path
+           sodipodi:type="arc"
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.08453465;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:0.94117647;stroke-dasharray:none;stroke-dashoffset:0"
+           id="path3968"
+           sodipodi:cx="65.399719"
+           sodipodi:cy="620.57996"
+           sodipodi:rx="3.1816082"
+           sodipodi:ry="3.1816082"
+           d="m 68.581327,620.57996 c 0,1.75715 -1.424454,3.1816 -3.181608,3.1816 -1.757153,0 -3.181608,-1.42445 -3.181608,-3.1816 0,-1.75716 1.424455,-3.18161 3.181608,-3.18161 1.757154,0 3.181608,1.42445 3.181608,3.18161 z"
+           transform="matrix(0.71958507,0,0,0.71958507,12.005918,414.33331)" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Luxi Sans;-inkscape-font-specification:Luxi Sans"
+         x="55.558392"
+         y="807.49896"
+         id="text4443"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="55.558392"
+           y="807.49896"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Utopia;-inkscape-font-specification:Utopia Italic"
+           id="tspan4445">Senior Web Engineer</tspan></text>
     </g>
     <g
        id="g4300"
@@ -794,5 +700,162 @@
          d="m 57.500009,210.36221 649.999981,0"
          style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     </g>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3204"
+       y="856.41425"
+       x="55.558392"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Luxi Sans;-inkscape-font-specification:Luxi Sans"
+       xml:space="preserve"><tspan
+         id="tspan3206"
+         style="font-size:12px;font-weight:bold;-inkscape-font-specification:Luxi Sans Bold"
+         y="856.41425"
+         x="55.558392"
+         sodipodi:role="line">OurStage, Inc.</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3208"
+       y="856.41425"
+       x="534.22461"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Utopia;-inkscape-font-specification:Utopia"
+       xml:space="preserve"><tspan
+         style="font-size:12px;font-style:italic;-inkscape-font-specification:Utopia Italic"
+         y="856.41425"
+         x="534.22461"
+         id="tspan3210"
+         sodipodi:role="line">April 2010 - September 2013</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path3212"
+       d="m 56.527142,860.65637 627.130318,0"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <g
+       transform="translate(0,38.13139)"
+       id="g3230">
+      <text
+         xml:space="preserve"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Luxi Sans;-inkscape-font-specification:Luxi Sans"
+         x="70.947266"
+         y="864.51654"
+         id="text3232"
+         sodipodi:linespacing="125%"><tspan
+           id="tspan3234"
+           sodipodi:role="line"
+           x="70.947266"
+           y="864.51654">Built licenseable music search interface, allowing searching across a wide array of song attributes, generation of</tspan><tspan
+           sodipodi:role="line"
+           x="70.947266"
+           y="879.51654"
+           id="tspan3236">waveform images, management of custom playlists</tspan></text>
+      <path
+         sodipodi:type="arc"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.08453465;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:0.94117647;stroke-dasharray:none;stroke-dashoffset:0"
+         id="path3238"
+         sodipodi:cx="65.399719"
+         sodipodi:cy="620.57996"
+         sodipodi:rx="3.1816082"
+         sodipodi:ry="3.1816082"
+         d="m 68.581327,620.57996 c 0,1.75715 -1.424454,3.1816 -3.181608,3.1816 -1.757153,0 -3.181608,-1.42445 -3.181608,-3.1816 0,-1.75716 1.424455,-3.18161 3.181608,-3.18161 1.757154,0 3.181608,1.42445 3.181608,3.18161 z"
+         transform="matrix(0.71958507,0,0,0.71958507,12.005918,414.33331)" />
+    </g>
+    <g
+       transform="translate(0,42.44346)"
+       id="g3240">
+      <text
+         xml:space="preserve"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Luxi Sans;-inkscape-font-specification:Luxi Sans"
+         x="70.947266"
+         y="894.51654"
+         id="text3242"
+         sodipodi:linespacing="125%"><tspan
+           id="tspan3244"
+           sodipodi:role="line"
+           x="70.947266"
+           y="894.51654">Rebuilt music judging feature, including designing and implementing major UI changes and porting existing Prototype</tspan><tspan
+           sodipodi:role="line"
+           x="70.947266"
+           y="909.51654"
+           id="tspan3246">code to use jQuery</tspan></text>
+      <path
+         sodipodi:type="arc"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.08453465;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:0.94117647;stroke-dasharray:none;stroke-dashoffset:0"
+         id="path3248"
+         sodipodi:cx="65.399719"
+         sodipodi:cy="620.57996"
+         sodipodi:rx="3.1816082"
+         sodipodi:ry="3.1816082"
+         d="m 68.581327,620.57996 c 0,1.75715 -1.424454,3.1816 -3.181608,3.1816 -1.757153,0 -3.181608,-1.42445 -3.181608,-3.1816 0,-1.75716 1.424455,-3.18161 3.181608,-3.18161 1.757154,0 3.181608,1.42445 3.181608,3.18161 z"
+         transform="matrix(0.71958507,0,0,0.71958507,12.005918,444.33331)" />
+    </g>
+    <g
+       transform="translate(0,46.74967)"
+       id="g3250">
+      <text
+         sodipodi:linespacing="125%"
+         id="text3252"
+         y="924.51654"
+         x="70.947266"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Luxi Sans;-inkscape-font-specification:Luxi Sans"
+         xml:space="preserve"><tspan
+           y="924.51654"
+           x="70.947266"
+           sodipodi:role="line"
+           id="tspan3254">Worked with product team and other developers in site redesign to make the site functional across multiple desktop </tspan><tspan
+           y="939.51654"
+           x="70.947266"
+           sodipodi:role="line"
+           id="tspan3256">and mobile platforms</tspan></text>
+      <path
+         transform="matrix(0.71958507,0,0,0.71958507,12.005918,474.33331)"
+         d="m 68.581327,620.57996 c 0,1.75715 -1.424454,3.1816 -3.181608,3.1816 -1.757153,0 -3.181608,-1.42445 -3.181608,-3.1816 0,-1.75716 1.424455,-3.18161 3.181608,-3.18161 1.757154,0 3.181608,1.42445 3.181608,3.18161 z"
+         sodipodi:ry="3.1816082"
+         sodipodi:rx="3.1816082"
+         sodipodi:cy="620.57996"
+         sodipodi:cx="65.399719"
+         id="path3258"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.08453465;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:0.94117647;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc" />
+    </g>
+    <g
+       transform="translate(0,48.91526)"
+       id="g3260">
+      <text
+         xml:space="preserve"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Luxi Sans;-inkscape-font-specification:Luxi Sans"
+         x="70.947266"
+         y="956.51654"
+         id="text3262"
+         sodipodi:linespacing="125%"><tspan
+           id="tspan3264"
+           sodipodi:role="line"
+           x="70.947266"
+           y="956.51654">Implemented pjax on desktop browsers to allow for faster browsing and a continuous music listening experience</tspan><tspan
+           sodipodi:role="line"
+           x="70.947266"
+           y="971.51654"
+           id="tspan3266">across the site</tspan></text>
+      <path
+         sodipodi:type="arc"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.08453465;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:0.94117647;stroke-dasharray:none;stroke-dashoffset:0"
+         id="path3268"
+         sodipodi:cx="65.399719"
+         sodipodi:cy="620.57996"
+         sodipodi:rx="3.1816082"
+         sodipodi:ry="3.1816082"
+         d="m 68.581327,620.57996 c 0,1.75715 -1.424454,3.1816 -3.181608,3.1816 -1.757153,0 -3.181608,-1.42445 -3.181608,-3.1816 0,-1.75716 1.424455,-3.18161 3.181608,-3.18161 1.757154,0 3.181608,1.42445 3.181608,3.18161 z"
+         transform="matrix(0.71958507,0,0,0.71958507,12.005918,506.33331)" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Luxi Sans;-inkscape-font-specification:Luxi Sans"
+       x="55.558392"
+       y="882.41425"
+       id="text3270"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="55.558392"
+         y="882.41425"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Utopia;-inkscape-font-specification:Utopia Italic"
+         id="tspan3272">Senior Web Engineer</tspan></text>
   </g>
 </svg>
