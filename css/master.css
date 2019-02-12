@@ -91,7 +91,7 @@ dd {
 
 @media print {
 
-  @page { margin: 40px 20px; }
+  @page { margin: 30px 20px; }
 
   .page-2-header {
     display: block;
