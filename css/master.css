@@ -83,10 +83,19 @@ dd {
   margin-bottom: 1.5em;
 }
 
+.page-2-header {
+  display: none;
+  text-align: right;
+  font-family: 'Lora';
+}
 
 @media print {
 
   @page { margin: 40px 20px; }
+
+  .page-2-header {
+    page-break-before: always;
+  }
 
   body {
     font-size: 13px;
@@ -96,11 +105,11 @@ dd {
     text-align: center;
   }
 
-  .mission {
-      margin: 0 3em;
+  h3 {
+    font-family: 'Helvetica';
   }
 
-  .ourstage-experience {
-    page-break-after: always;
+  .mission {
+      margin: 0 3em;
   }
 }
