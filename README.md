@@ -1,5 +1,3 @@
-My resume
+Pre-rendered in jslate-resume.pdf for convenience. If you just want to download the PDF:
 
-If you just want to view it...
-
-https://github.com/jslate/resume/blob/master/index.html?raw=true
+https://github.com/jslate/resume/blob/master/jslate-resume.pdf?raw=true
