@@ -94,6 +94,7 @@ dd {
   @page { margin: 40px 20px; }
 
   .page-2-header {
+    display: block;
     page-break-before: always;
   }
 
