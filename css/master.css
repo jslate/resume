@@ -1,0 +1,106 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+ul {
+  margin-left: 2em;
+}
+
+body {
+  font-family: 'Source Sans Pro', sans-serif;
+  /* font-family: sans-serif; */
+  margin: 0 20px;
+}
+
+.mission {
+    font-style: italic;
+    margin: 1em 0;
+}
+
+h1 {
+  font-size: 4em;
+  margin-bottom: -10px;
+  font-family: 'Lora';
+}
+
+h2 {
+  text-transform: uppercase;
+  font-size: 1.5em;
+  margin-top: 0;
+  font-family: 'Arial Black';
+}
+
+.major-section {
+  margin-top: 3em;
+}
+
+h3 {
+  margin-top: 1em;
+  margin-bottom: 0.5em;
+  font-size: 2em;
+}
+
+.experience-item {
+  margin: 3em 0;
+}
+
+.experience-header {
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 5px;
+  border-bottom: 5px double #ccc;
+  margin-bottom: 24px;
+}
+
+h4 {
+  font-weight: 550;
+  font-family: 'Helvetica';
+}
+
+.experience-header h4, h5 {
+  margin: 0;
+}
+
+.experience-header h5 {
+  font-style: italic;
+  font-weight: normal;
+  font-size: 1em;
+}
+
+.experience-header .experience-dates {
+  font-style: italic;
+  color: #777;
+}
+
+dt {
+  font-weight: 550;
+  font-family: 'Helvetica';
+}
+
+dd {
+  margin-left: 0;
+  margin-bottom: 1.5em;
+}
+
+
+@media print {
+
+  @page { margin: 40px 20px; }
+
+  body {
+    font-size: 13px;
+  }
+
+  h1, h2 {
+    text-align: center;
+  }
+
+  .mission {
+      margin: 0 3em;
+  }
+
+  .ourstage-experience {
+    page-break-after: always;
+  }
+}
